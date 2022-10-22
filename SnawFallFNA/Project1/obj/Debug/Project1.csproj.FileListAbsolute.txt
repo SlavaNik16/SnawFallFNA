@@ -1,0 +1,35 @@
+C:\Users\nikol\OneDrive\Рабочий стол\Дополнение\C#\Project1\Project1\obj\Debug\Project1.csproj.AssemblyReference.cache
+C:\Users\nikol\OneDrive\Рабочий стол\Дополнение\C#\Project1\Project1\obj\Debug\Project1.csproj.SuggestedBindingRedirects.cache
+C:\Users\nikol\OneDrive\Рабочий стол\Дополнение\C#\Project1\Project1\obj\Debug\Project1.csproj.CoreCompileInputs.cache
+C:\Users\nikol\OneDrive\Рабочий стол\Дополнение\C#\Project1\Project1\bin\Debug\Project1.exe.config
+C:\Users\nikol\OneDrive\Рабочий стол\Дополнение\C#\Project1\Project1\bin\Debug\Project1.exe
+C:\Users\nikol\OneDrive\Рабочий стол\Дополнение\C#\Project1\Project1\bin\Debug\Project1.pdb
+C:\Users\nikol\OneDrive\Рабочий стол\Дополнение\C#\Project1\Project1\bin\Debug\FNA.dll
+C:\Users\nikol\OneDrive\Рабочий стол\Дополнение\C#\Project1\Project1\obj\Debug\Project1.csproj.CopyComplete
+C:\Users\nikol\OneDrive\Рабочий стол\Дополнение\C#\Project1\Project1\obj\Debug\Project1.exe
+C:\Users\nikol\OneDrive\Рабочий стол\Дополнение\C#\Project1\Project1\obj\Debug\Project1.pdb
+C:\Users\nikol\OneDrive\Рабочий стол\Дополнение\C#\SnawFallFNA\Project1\bin\Debug\Project1.exe.config
+C:\Users\nikol\OneDrive\Рабочий стол\Дополнение\C#\SnawFallFNA\Project1\bin\Debug\Project1.exe
+C:\Users\nikol\OneDrive\Рабочий стол\Дополнение\C#\SnawFallFNA\Project1\bin\Debug\Project1.pdb
+C:\Users\nikol\OneDrive\Рабочий стол\Дополнение\C#\SnawFallFNA\Project1\obj\Debug\Project1.csproj.AssemblyReference.cache
+C:\Users\nikol\OneDrive\Рабочий стол\Дополнение\C#\SnawFallFNA\Project1\obj\Debug\Project1.csproj.SuggestedBindingRedirects.cache
+C:\Users\nikol\OneDrive\Рабочий стол\Дополнение\C#\SnawFallFNA\Project1\obj\Debug\Project1.csproj.CoreCompileInputs.cache
+C:\Users\nikol\OneDrive\Рабочий стол\Дополнение\C#\SnawFallFNA\Project1\obj\Debug\Project1.csproj.CopyComplete
+C:\Users\nikol\OneDrive\Рабочий стол\Дополнение\C#\SnawFallFNA\Project1\obj\Debug\Project1.exe
+C:\Users\nikol\OneDrive\Рабочий стол\Дополнение\C#\SnawFallFNA\Project1\obj\Debug\Project1.pdb
+C:\Users\nikol\OneDrive\Рабочий стол\Дополнение\C#\SnawFallFNA\Project1\obj\Debug\Project1.Properties.Resources.resources
+C:\Users\nikol\OneDrive\Рабочий стол\Дополнение\C#\SnawFallFNA\Project1\obj\Debug\Project1.csproj.GenerateResource.cache
+X:\На всякий случай\C#\SnawFallFNA\Project1\obj\Debug\Project1.csproj.AssemblyReference.cache
+X:\На всякий случай\C#\SnawFallFNA\Project1\obj\Debug\Project1.Properties.Resources.resources
+X:\На всякий случай\C#\SnawFallFNA\Project1\obj\Debug\Project1.csproj.GenerateResource.cache
+X:\На всякий случай\C#\SnawFallFNA\Project1\obj\Debug\Project1.csproj.CoreCompileInputs.cache
+X:\На всякий случай\C#\SnawFallFNA\Project1\obj\Debug\Project1.exe
+X:\На всякий случай\C#\SnawFallFNA\Project1\obj\Debug\Project1.pdb
+X:\На всякий случай\C#\SnawFallFNA\Project1\bin\Debug\Project1.exe.config
+X:\На всякий случай\C#\SnawFallFNA\Project1\bin\Debug\Project1.exe
+X:\На всякий случай\C#\SnawFallFNA\Project1\bin\Debug\Project1.pdb
+X:\На всякий случай\C#\SnawFallFNA\Project1\obj\Debug\Project1.csproj.CopyComplete
+X:\На всякий случай\C#\SnawFallFNA\Project1\bin\Debug\Properties\FAudio.dll
+X:\На всякий случай\C#\SnawFallFNA\Project1\bin\Debug\Properties\FNA3D.dll
+X:\На всякий случай\C#\SnawFallFNA\Project1\bin\Debug\Properties\libtheorafile.dll
+X:\На всякий случай\C#\SnawFallFNA\Project1\bin\Debug\Properties\SDL2.dll
