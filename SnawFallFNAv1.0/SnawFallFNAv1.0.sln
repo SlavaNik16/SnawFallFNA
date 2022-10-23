@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32825.248
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SnawFallFNAv1.0", "SnawFallFNAv1.0.csproj", "{911DA46F-9EC1-4639-9D8B-C9923AD67C75}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{911DA46F-9EC1-4639-9D8B-C9923AD67C75}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{911DA46F-9EC1-4639-9D8B-C9923AD67C75}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{911DA46F-9EC1-4639-9D8B-C9923AD67C75}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{911DA46F-9EC1-4639-9D8B-C9923AD67C75}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {48643B9E-C494-46ED-90BA-71676EF5DF4A}
+	EndGlobalSection
+EndGlobal
